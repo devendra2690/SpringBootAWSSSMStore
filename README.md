@@ -1,7 +1,6 @@
 # SpringBootAWSSSMStore
 
-This project implement the fature of AWS SSM.
-For this you need to have AWS account and SSM paramter configured like below:
+This project implements the AWS SSM feature. To use it, you need an AWS account and a configured SSM parameter, as shown below:
 
 ![image](https://github.com/user-attachments/assets/522f353b-ca59-4f5e-95a5-7ef63e41a7ad)
 
