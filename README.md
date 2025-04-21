@@ -7,3 +7,4 @@ This project implements the AWS SSM feature. To use it, you need an AWS account 
 
 AWS SSM (Systems Manager) Parameter Store provides a secure and scalable solution for storing configuration data, secrets, and other sensitive information such as passwords, API keys, and database credentials. It integrates well with other AWS services, offering a centralized location to manage application settings.																			
 
+Test Note
